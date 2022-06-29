@@ -16,3 +16,7 @@
 
 
 > **NOTA:** Com essas informações poderá ter relatórios de custos de trabalho, diário, semanal, mensal e anual.
+
+
+
+[Técnicas de Markdown tiradas do site](https://markdown.net.br/sintaxe-basica/)
