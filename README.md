@@ -20,3 +20,6 @@
 
 
 [Técnicas de Markdown tiradas do site](https://markdown.net.br/sintaxe-basica/)
+
+Email para contato:
+<stranhol2@gmail.com>
