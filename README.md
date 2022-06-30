@@ -24,4 +24,4 @@
 Email para contato:
 <stranhol2@gmail.com>
 
-![Anderson Guimarães Ruiz]("[https://photos.google.com/photo/AF1QipPHFKa_KxsRIC7g6KZflEDoZderUkQoAtCj5J7u](https://photos.app.goo.gl/qateVyiTNA5pYVNZA)")
+![Anderson Guimarães Ruiz]("https://photos.app.goo.gl/qateVyiTNA5pYVNZA")
