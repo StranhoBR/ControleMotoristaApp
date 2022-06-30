@@ -23,5 +23,3 @@
 
 Email para contato:
 <stranhol2@gmail.com>
-
-![Anderson Guimarães Ruiz]
